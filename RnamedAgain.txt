@@ -1,0 +1,9 @@
+This is a new text document!
+
+Now it's been changed before commit!
+
+Now changed again before git diff.
+
+Now changed before -m commit
+
+Now changed before -a commit
